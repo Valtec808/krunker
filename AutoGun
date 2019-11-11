@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         AutoGun
 // @namespace    https://github.com/valtec808
-// @version      
+// @version      1.0
 // @description  auto point and shoot
 // @author       Valtec808
 // @match        *://krunker.io/*
