@@ -1,9 +1,8 @@
-=  
 // ==UserScript==
 // @name         AutoGun
 // @namespace    https://github.com/valtec808
 // @version      1.0
-// @description  auto point and shoot
+// @description  auto point and shoot for krunker
 // @author       Valtec808
 // @match        *://krunker.io/*
 // @run-at       document-start
@@ -12,6 +11,7 @@
 // @grant        none
 //this is fucking stupid please help
 //1 more year of GCE then i fucking gone lol hehehehehehehehehe
+//steal this code and i'll curse your family to the 9th generation :(
 // ==/UserScript==
 WebFont.load({
     google: {
